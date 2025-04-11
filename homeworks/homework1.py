@@ -12,6 +12,7 @@ class Hero():
         else:
             return False
         
+        
 hero1 = Hero("Артур", 5, 100)
 print(hero1.introduce())
 hero2 = Hero("Ланселот", 12, 150)
